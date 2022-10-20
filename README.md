@@ -18,3 +18,10 @@ Provided are screenshots of the run-times for the stock analysis for years 2017 
 ![App Screenshot](https://github.com/mheaton1/stock-analysis/blob/main/resources/2018%20time.PNG?raw=true)
 
 ###### From these screenshots you can conclude that the refactered code was quicker by almost .3 of a seconds. Instead of looping through the code multiple times we had refactored the code to run through all the data at once. 
+## 2017 stock data
+![App Screenshot](https://github.com/mheaton1/stock-analysis/blob/main/resources/2018%20time.PNG?raw=true)
+
+
+
+
+![App Screenshot](https://github.com/mheaton1/stock-analysis/blob/main/resources/2018%20time.PNG?raw=true)
